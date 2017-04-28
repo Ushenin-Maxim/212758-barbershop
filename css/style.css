@@ -18,3 +18,148 @@ body {
 	font-size: 24px;
 	line-height: 30px;
 }
+
+.main-header {
+	margin-bottom: 60px;
+	background-color: #9fcefc;
+}
+
+.container {
+	width: 940px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+.main-navigation {
+	float: left;
+	width: 630px;
+	background-color: #d2eafd;
+}
+
+.user-block {
+	float: right;
+	width: 140px;
+	background-color: #c0def8;
+}
+
+.clearfix::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.index-logo {
+	width: 368px;
+	height: 204px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+	background-color: #c3f7a8;
+}
+
+.features {
+	margin-bottom: 80px;
+	background-color: #ffe5da;
+}
+
+.features-item {
+	float: left;
+	width: 300px;
+	margin-right: 20px;
+	background-color: #f8ffa6;
+}
+
+.features-item:last-child {
+	margin-right: 0;
+}
+
+.index-content {
+	padding: 50px 80px;
+	margin-bottom: 35px;
+	background-color: #baff9b;
+}
+
+.index-content-left {
+	float: left;
+	width: 380px;
+	background-color: #dcffcc;
+}
+
+.index-content-right {
+	float: right;
+	width: 300px;
+	background-color: #dcffcc;
+}
+
+.main-footer {
+	margin-top: 65px;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	background-color: #d8d8d8;
+}
+
+.footer-contacts {
+	float: left;
+	width: 320px;
+	margin-right: 60px;
+	background-color: #fafafa;
+}
+
+.footer-social {
+	float: left;
+	width: 180px;
+	background-color: #fafafa;
+}
+
+.footer-copyright {
+	float: right;
+	width: 180px;
+	background-color: #fafafa;
+}
+
+.logo-small {
+	width: 111px;
+	height: 24px;
+	float: left;
+}
+
+.catalog-filter {
+	width: 220px;
+	float: left;
+	background-color: #acefa6;
+}
+
+.catalog-column-right {
+	width: 700px;
+	float: right;
+	background-color: #ffeacc;
+}
+
+.goods {
+	font-size: 0;
+}
+
+.goods-item {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 14px;
+	width: 220px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background-color: #ffd293;
+}
+
+.goods-item:nth-child(3n) {
+	margin-right: 0;
+}
+
+.item-column-left {
+	width: 460px;
+	float: left;
+	background-color: #ff93a4;
+}
+
+.item-column-right {
+	width: 400px;
+	float: right;
+	background-color: #93ff9f;
+}
