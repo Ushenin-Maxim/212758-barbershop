@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Максим Ушенин](https://up.htmlacademy.ru/htmlcss/17/user/212758).
+* Наставник: [Андрей Рычагов](https://up.htmlacademy.ru/htmlcss/17/user/50483).
 
 ---
 
