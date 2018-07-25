@@ -1,15 +1,15 @@
 body {
-	color: #000;
-	font-weight: bold;
 	font-size: 14px;
-	font-family: "PT Sans Narrow", Arial, sans-serif;
 	line-height: 24px;
+	color: #000;
+	font-weight: bold;
+	font-family: "PT Sans Narrow", Arial, sans-serif;
 }
 
 .features-name,
 .index-content-title,
 .page-title {
-	font-size: 30px;
+	font-size: 30px;
 	line-height: 42px;
 }
 
@@ -25,9 +25,9 @@ body {
 }
 
 .container {
-	margin: 0 auto;
-	padding: 0 10px;
 	width: 940px;
+	padding: 0 10px;
+	margin: 0 auto;
 }
 
 .main-navigation {
@@ -43,16 +43,16 @@ body {
 }
 
 .clearfix::after {
-	display: table;
-	clear: both;
 	content: "";
+	display: table;
+	clear: both;
 }
 
 .index-logo {
-	margin: 0 auto;
-	margin-bottom: 25px;
 	width: 368px;
 	height: 204px;
+	margin: 0 auto;
+	margin-bottom: 25px;
 	background-color: #c3f7a8;
 }
 
@@ -63,8 +63,8 @@ body {
 
 .features-item {
 	float: left;
-	margin-right: 20px;
 	width: 300px;
+	margin-right: 20px;
 	background-color: #f8ffa6;
 }
 
@@ -73,8 +73,8 @@ body {
 }
 
 .index-content {
-	margin-bottom: 35px;
 	padding: 50px 80px;
+	margin-bottom: 35px;
 	background-color: #baff9b;
 }
 
@@ -99,8 +99,8 @@ body {
 
 .footer-contacts {
 	float: left;
-	margin-right: 60px;
 	width: 320px;
+	margin-right: 60px;
 	background-color: #fafafa;
 }
 
@@ -117,20 +117,20 @@ body {
 }
 
 .logo-small {
-	float: left;
 	width: 111px;
 	height: 24px;
+	float: left;
 }
 
 .catalog-filter {
-	float: left;
 	width: 220px;
+	float: left;
 	background-color: #acefa6;
 }
 
 .catalog-column-right {
-	float: right;
 	width: 700px;
+	float: right;
 	background-color: #ffeacc;
 }
 
@@ -140,12 +140,12 @@ body {
 
 .goods-item {
 	display: inline-block;
-	margin-right: 20px;
-	margin-bottom: 20px;
-	width: 220px;
-	background-color: #ffd293;
 	vertical-align: top;
 	font-size: 14px;
+	width: 220px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background-color: #ffd293;
 }
 
 .goods-item:nth-child(3n) {
@@ -153,13 +153,13 @@ body {
 }
 
 .item-column-left {
-	float: left;
 	width: 460px;
+	float: left;
 	background-color: #ff93a4;
 }
 
 .item-column-right {
-	float: right;
 	width: 400px;
+	float: right;
 	background-color: #93ff9f;
 }
